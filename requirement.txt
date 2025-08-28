@@ -1,0 +1,10 @@
+torch
+sentence-transformers
+transformers
+scikit-learn
+pandas
+numpy
+PyMuPDF
+joblib
+matplotlib
+scipy
